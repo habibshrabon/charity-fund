@@ -1,6 +1,6 @@
 # The projects name is CHARITY FUND
 
-This is the Live Link [CHARITY FUND](https://github.com/facebook/create-react-app).
+This is the Live Link [CHARITY FUND](https://gifted-dijkstra-8a13e2.netlify.app/).
 
 ## Description
 

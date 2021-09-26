@@ -28,7 +28,7 @@ const Cart = (props) => {
           <Selected key={personName._id} personName={personName}></Selected>
         ))}
       </div>
-      <button className="btn btn-warning px-5">{cartIcon} Buy Now</button>
+      <button className="btn btn-info px-5">{cartIcon} Buy Now</button>
     </div>
   );
 };

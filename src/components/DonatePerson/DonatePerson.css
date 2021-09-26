@@ -1,12 +1,13 @@
 .card-bg {
-  /* background-color: red; */
-  box-shadow: rgb(24 23 23 / 24%) 7px 6px 10px;
-  border: none;
-  border-radius: 10px;
+  background-color: #fff;
+  border: 15px solid #f1f1f1;
+  box-shadow: #ccc 4px 4px 15px;
+  border-radius: 5px;
 }
 .img-size {
   width: 200px;
   height: 200px;
   margin: 0 auto;
   padding: 10px;
+  border-radius: 20px;
 }
