@@ -1,0 +1,128 @@
+[
+    {
+      "_id": "6150668a35e1babb67a39f35",
+      "name": "Dr.Younus",
+      "gender": "male",
+      "profession": "Business",
+      "amount": 5000000,
+      "city": "Bangladesh",
+      "img": "https://i.ibb.co/0Y4QFCm/younus.jpg"
+    },
+    {
+      "_id": "6150668a535a3b418c96b57a",
+      "name": "Pran Gopal",
+      "gender": "male",
+      "profession": "Doctor & MP",
+      "amount": 1000000,
+      "city": "Bangladesh",
+      "img": "https://i.ibb.co/G564XKV/pran-Gopal.jpg"
+    },
+    {
+      "_id": "6150668ae95986d79f7d384c",
+      "name": "Dr.Deen Mohammad",
+      "gender": "male",
+      "profession": "Doctor",
+      "amount": 3000000,
+      "city": "Bangladesh",
+      "img": "https://i.ibb.co/xXb3wNf/deen.jpg"
+    },
+    {
+      "_id": "6150668a98e3b1542204ceea",
+      "name": "Jamilur Reza Choudhury",
+      "gender": "male",
+      "profession": "Engineer",
+      "amount": 4000000,
+      "city": "Bangladesh",
+      "img": "https://i.ibb.co/yWpKPjJ/jamil.jpg"
+    },
+    {
+      "_id": "6150668acbd7880191ece627",
+      "name": "Yasir Azman",
+      "gender": "male",
+      "profession": "GrameenPhone CEO",
+      "amount": 7000000,
+      "city": "Bangladesh",
+      "img": "https://i.ibb.co/tsnG2bx/Yasir.jpg"
+    },
+    {
+      "_id": "6150668a9253aa172b1a3579",
+      "name": "Jhankar Mahbub",
+      "gender": "male",
+      "profession": "Developer",
+      "amount": 77777777,
+      "city": "Bangladesh",
+      "img": "https://i.ibb.co/HFbgn9w/jhankar.jpg"
+    },
+    {
+      "_id": "6150668af59703f591dee3d3",
+      "name": "Shafiuddin ahmed",
+      "gender": "female",
+      "profession": "Army Chief",
+      "amount": 2000000,
+      "city": "Bangladesh",
+      "img": "https://i.ibb.co/d5VYvxK/army2.jpg"
+    },
+    {
+      "_id": "6150668aa39b7d42e86461e6",
+      "name": "Abdul Hamid",
+      "gender": "male",
+      "profession": "President",
+      "amount": 6000000,
+      "city": "Bangladesh",
+      "img": "https://i.ibb.co/BGTPQPR/hamid.jpg"
+    },
+    {
+      "_id": "6150668a53279aa882719c1f",
+      "name": "Moosa Bin Shamsher",
+      "gender": "male",
+      "profession": "Business",
+      "amount": 2000000,
+      "city": "Bangladesh",
+      "img": "https://i.ibb.co/qdnc9PN/moosa.jpg"
+    },
+    {
+      "_id": "6150668a5d7a6617d708967e",
+      "name": "Tishma",
+      "gender": "female",
+      "profession": "Singer",
+      "amount": 1500000,
+      "city": "Bangladesh",
+      "img": "https://i.ibb.co/s35nrDH/tisma.jpg"
+    },
+    {
+      "_id": "6150668a2e62bff0bba6eec2",
+      "name": "Mashrafe Mortaza",
+      "gender": "male",
+      "profession": "Cricketer & MP",
+      "amount": 1400000,
+      "city": "Bangladesh",
+      "img": "https://i.ibb.co/RQqcP84/masrafy.jpg"
+    },
+    {
+      "_id": "6150668ae39042325fc62dc2",
+      "name": "A.T.M. Shamsuzzaman",
+      "gender": "male",
+      "profession": "Actor",
+      "amount": 8000000,
+      "city": "Bangladesh",
+      "img": "https://i.ibb.co/dG7mGK4/atm.jpg"
+    },
+    {
+      "_id": "6150668ae07238bb6d19c44a",
+      "name": "Fazle Kabir",
+      "gender": "male",
+      "profession": "Ex-Govornor",
+      "amount": 1100000,
+      "city": "Bangladesh",
+      "img": "https://i.ibb.co/bL4TKQ2/fazle.jpg"
+    },
+    {
+      "_id": "6150668a71f696e8f39dcdbb",
+      "name": "Mushfiqur Rahim",
+      "gender": "male",
+      "profession": "Cricketer",
+      "amount": 17000000,
+      "city": "Bangladesh",
+      "img": "https://i.ibb.co/wK47dGc/mushfiq.jpg"
+    }
+  ]
